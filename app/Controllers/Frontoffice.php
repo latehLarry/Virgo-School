@@ -1,4 +1,15 @@
 <?php 
+/**
+ * Class Frontoffice.
+ *
+ * @category Virgo-School
+ *
+ * @package Virgo-School
+ * @author  virgotech llc
+ * @license contact us lvirgotech@gmail.com
+ * @link    https://github.com/latehLarry/Virgo-School.git
+ */
+
 namespace App\Controllers;
 use CodeIgniter\Controller;
 
