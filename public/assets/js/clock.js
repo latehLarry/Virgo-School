@@ -1,5 +1,5 @@
 /**
- * Default clock
+ * Default clock display
  * code by Larrytech @ Virgotech
  */
 
