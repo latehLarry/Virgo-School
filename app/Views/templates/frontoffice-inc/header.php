@@ -14,14 +14,25 @@
         .main-header .nav-link {
             font-size: 17px;
             font-weight: 600;
-            inline-size: 100px;
         }
-        .navbar-no-expand .dropdown-menu {
-            position:revert !important ;
+        .datetime {
+          color: #59ccd8;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          padding: 15px 10px;
+        }
+        .date {
+          font-size: 30px;
+          font-weight: 600;
+        }
+        .time {
+          font-size: 40px;
+          font-weight: 600;
         }
     </style>
+
+<script src="<?= site_url('/assets/js/clock.js') ?>"></script>
 </head>
-<body class="hold-transition layout-top-nav">
+<body class="hold-transition layout-top-nav" onload="renderTime()">
 <div class="wrapper">
     <!-- Navbar -->
 <nav class="main-header navbar navbar-expand-md navbar-light navbar-white">

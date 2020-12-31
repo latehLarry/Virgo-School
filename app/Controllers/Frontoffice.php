@@ -6,7 +6,7 @@
  *
  * @package Virgo-School
  * @author  virgotech llc
- * @license contact us lvirgotech@gmail.com
+ * @license contact us at lvirgotech@gmail.com
  * @link    https://github.com/latehLarry/Virgo-School.git
  */
 
